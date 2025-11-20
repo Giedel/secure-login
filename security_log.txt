@@ -1,0 +1,35 @@
+[2025-11-20 09:05:16] Login system started
+[2025-11-20 09:05:30] Failed login attempt for user 'Giedel' (Attempt 1/5)
+[2025-11-20 09:06:34] Successful login for user 'admin'
+[2025-11-20 09:06:40] User 'admin' logged out
+[2025-11-20 09:06:50] Login system stopped
+[2025-11-20 09:08:42] Login system started
+[2025-11-20 09:08:44] Login system stopped
+[2025-11-20 09:08:53] Enhanced login system started
+[2025-11-20 09:09:35] Failed login attempt for 'Giedel' (Attempt 1/5)
+[2025-11-20 09:09:47] Failed login attempt for 'Giedel' (Attempt 2/5)
+[2025-11-20 09:10:00] Failed login attempt for 'Giedel' (Attempt 3/5)
+[2025-11-20 09:10:34] Enhanced login system stopped
+[2025-11-20 09:10:40] Enhanced login system started
+[2025-11-20 09:15:32] Enhanced login system stopped
+[2025-11-20 09:15:36] Secure Login System v3.0 started
+[2025-11-20 09:15:44] Successful login for user 'admin'
+[2025-11-20 09:17:27] User 'admin' logged out
+[2025-11-20 09:17:40] Successful login for user 'user'
+[2025-11-20 09:17:47] User 'user' logged out
+[2025-11-20 09:17:52] Secure Login System v3.0 stopped
+[2025-11-20 09:18:02] Secure Login System v3.0 started
+[2025-11-20 09:18:10] Successful login for user 'user'
+[2025-11-20 09:19:00] User 'user' logged out
+[2025-11-20 09:19:13] Failed login attempt for 'Giedel' (Attempt 4/5)
+[2025-11-20 09:19:23] Failed login attempt for 'Giedel' (Attempt 5/5)
+[2025-11-20 09:19:23] SECURITY ALERT - User 'Giedel' blocked after 5 failed attempts
+[2025-11-20 09:19:32] Blocked user 'Giedel' attempted login
+[2025-11-20 09:19:44] Successful login for user 'admin'
+[2025-11-20 09:22:48] User 'admin' logged out
+[2025-11-20 09:22:48] Secure Login System v3.0 stopped
+[2025-11-20 09:24:52] System started
+[2025-11-20 09:26:01] Failed login attempt for 'test' (Attempt 1/5)
+[2025-11-20 09:26:07] Successful login for user 'test'
+[2025-11-20 09:26:42] User 'test' logged out
+[2025-11-20 09:26:45] System stopped normally

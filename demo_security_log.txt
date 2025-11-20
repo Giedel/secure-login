@@ -1,0 +1,9 @@
+[2025-11-20 09:30:21] Successful login for user 'admin'
+[2025-11-20 09:30:24] Failed login attempt for 'admin' (Attempt 1/5)
+[2025-11-20 09:30:27] Failed login attempt for 'testuser' (Attempt 1/5)
+[2025-11-20 09:30:28] Failed login attempt for 'testuser' (Attempt 2/5)
+[2025-11-20 09:30:30] Failed login attempt for 'testuser' (Attempt 3/5)
+[2025-11-20 09:30:32] Failed login attempt for 'testuser' (Attempt 4/5)
+[2025-11-20 09:30:33] Failed login attempt for 'testuser' (Attempt 5/5)
+[2025-11-20 09:30:33] SECURITY ALERT - User 'testuser' blocked after 5 failed attempts
+[2025-11-20 09:30:40] User 'testuser' was unblocked
